@@ -1,0 +1,4 @@
+#Wed Apr 01 00:44:28 ALMT 2020
+base.0=/Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/samples/redux/rxredux/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

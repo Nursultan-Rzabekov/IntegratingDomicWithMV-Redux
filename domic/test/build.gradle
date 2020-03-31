@@ -1,0 +1,16 @@
+apply plugin: 'java-library'
+apply plugin: 'kotlin'
+
+dependencies {
+    api project(':domic:api')
+}
+
+dependencies {
+    implementation project(':domic:util')
+    implementation libraries.rxRelay
+}
+
+dependencies {
+    testImplementation testLibraries.junit
+    testImplementation testLibraries.assertJ
+}

@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+id email_edit_text
+id password_edit_text
+id sign_in_button
+id sign_result_text_view
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string email_hint
+string password_hint
+string sign_in_button
+style AppTheme

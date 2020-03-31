@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml:1:1-46
+INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml:1:1-46
+INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml:1:1-46
+	package
+		ADDED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml:1:11-43
+		INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml:1:1-46
+uses-sdk
+INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
+INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
+		ADDED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/nursultanrzabekov/Desktop/reactiveApps/DomicIntegrate/domic/android/src/main/AndroidManifest.xml
